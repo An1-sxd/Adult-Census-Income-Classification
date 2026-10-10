@@ -21,14 +21,10 @@ and Random Forest comparisons.
 .
 |-- adult.csv
 |-- train-v2.ipynb
-|-- train-v3.ipynb
-|-- train-v4.ipynb
-|-- train.ipynb
 `-- README.md
 ```
 
-`train-v2.ipynb` is the version documented here. The other notebooks are earlier
-or alternative iterations of the project.
+`train-v2.ipynb` is the only notebook included in this project.
 
 ## Dataset
 
